@@ -1,9 +1,12 @@
-.heading {
+/* .heading {
     color: red;
 }
 
 .paris_para {
     background-color: beige;
+} */
+html {
+    scroll-behavior: smooth;
 }
 
 .notebox {
@@ -18,4 +21,9 @@
     border-color : red;
     font-weight : bold;
 }
+
+#heading {
+    color: red;
+}
+
 
