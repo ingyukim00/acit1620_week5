@@ -26,6 +26,10 @@
     color: red;
 } */
 
+html {
+    font: italic small-caps bold 24px/1.5 Helvetica, sans-serif;
+}
+
 p {
     border: 10px ridge lightgreen;
     margin: 5px;
@@ -37,4 +41,3 @@ span {
     border-top: 2px solid #000;
     border-bottom: 4px solid grey;
 }
-
